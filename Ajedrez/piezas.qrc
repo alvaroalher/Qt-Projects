@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/negro">
+        <file alias="alfil">piezas/negro/alfil-negro.png</file>
+        <file alias="caballo">piezas/negro/caballo-negro.png</file>
+        <file alias="peon">piezas/negro/peon-negro.png</file>
+        <file alias="reina">piezas/negro/reina-negro.png</file>
+        <file alias="rey">piezas/negro/rey-negro.png</file>
+        <file alias="torre">piezas/negro/torre-negra.png</file>
+    </qresource>
+    <qresource prefix="/blanco">
+        <file alias="alfil">piezas/blanco/alfil-blanco.png</file>
+        <file alias="caballo">piezas/blanco/caballo-blanco.png</file>
+        <file alias="peon">piezas/blanco/peon-blanco.png</file>
+        <file alias="reina">piezas/blanco/reina-blanco.png</file>
+        <file alias="rey">piezas/blanco/rey-blanco.png</file>
+        <file alias="torre">piezas/blanco/torre-blanca.png</file>
+    </qresource>
+    <qresource prefix="/iconos">
+        <file alias="chess">piezas/chess.png</file>
+    </qresource>
+</RCC>
